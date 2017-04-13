@@ -1,0 +1,5 @@
+C:\Users\Charlie\Documents\Visual Studio 2015\Projects\BonusPair1\BonusPair1\bin\Debug\BonusPair1.exe.config
+C:\Users\Charlie\Documents\Visual Studio 2015\Projects\BonusPair1\BonusPair1\bin\Debug\BonusPair1.exe
+C:\Users\Charlie\Documents\Visual Studio 2015\Projects\BonusPair1\BonusPair1\bin\Debug\BonusPair1.pdb
+C:\Users\Charlie\Documents\Visual Studio 2015\Projects\BonusPair1\BonusPair1\obj\Debug\BonusPair1.exe
+C:\Users\Charlie\Documents\Visual Studio 2015\Projects\BonusPair1\BonusPair1\obj\Debug\BonusPair1.pdb
